@@ -260,7 +260,7 @@ const words = [
   'make',
   'male',
   'many',
-  'Mark',
+  'mark',
   'mass',
   'matt',
   'meal',
