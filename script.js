@@ -516,7 +516,7 @@ generateBtn.addEventListener('mouseup', (e) => {
   passwordOutput.innerText = ''
 
   // Show copy to clipboard button
-  copyBtn.style.display = 'block'
+  copyBtn.classList.remove('hidden')
 
   // Get the random numbers
   let first = getRandomInt(500)
